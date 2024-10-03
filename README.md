@@ -72,3 +72,6 @@ vite@5.4.7
 vitest@1.6.0
 ```
 
+### Project Planning
+
+For a detailed look at the planning and wireframes for the **Front-and-Back** project, please check out my Miro board: [Project Planning on Miro](https://miro.com/app/board/uXjVLX_4tFw=/?share_link_id=415402965039).
